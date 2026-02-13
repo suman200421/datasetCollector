@@ -6,6 +6,12 @@ The **Mobile Sensor Data Collection App** is a robust and extensible mobile appl
 
 The app provides configurable sampling rates, session-based recording, and multiple export formats to ensure flexibility and scalability.
 
+## App Preview
+
+<p align="center">
+  <!-- <img src="assets/screenshots/home-screen.png" width="250"> -->
+</p>
+
 ---
 
 ## Table of Contents
