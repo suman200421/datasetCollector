@@ -35,10 +35,9 @@ The app provides configurable sampling rates, session-based recording, and multi
 - ▶️ Start/Stop session recording  
 - 🗂️ Session-based data organization  
 - 💾 Local persistent storage  
-- 📤 Export data as CSV or JSON  
-- 📈 Live preview of sensor readings  
+- 📤 Export data as Text (easy to make csv) 
 - 🔋 Optimized for battery efficiency  
-- 🔐 Permission management handling  
+- 🔐 Permission management handling
 
 ---
 
@@ -47,14 +46,8 @@ The app provides configurable sampling rates, session-based recording, and multi
 The application supports the following sensors (device-dependent):
 
 - Accelerometer  
-- Gyroscope  
-- Magnetometer  
+- Gyroscope   
 - GPS / Location  
-- Barometer  
-- Ambient Light Sensor  
-- Proximity Sensor  
-- Microphone (optional)  
-- Device Orientation  
 
 > ⚠️ Sensor availability depends on device hardware and operating system.
 
