@@ -10,7 +10,7 @@ The app provides configurable sampling rates, session-based recording, and multi
 
 <p align="center">
   <img src="assets/screenshots/home.jpeg" width="250">
-  <img src="assets/screenshots/data.jpeg" width="250">
+  <img src="datacollector/assets/screenshots/data.jpeg" width="250">
 </p>
 
 ---
